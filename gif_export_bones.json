@@ -1,0 +1,14 @@
+{
+  "class": "export-gif",
+  "name": "walkSkinned_bones",
+  "animation": "walkSkinned",
+  "skin": "default",
+  "fps": 20,
+  "scale": 100.0,
+  "quality": 100,
+  "colors": 256,
+  "forever": true,
+  "premultipliedAlpha": false,
+  "backgroundColor": "ffffffff",
+  "renderMode": "bones"
+}

@@ -1,0 +1,15 @@
+{
+  "class": "export-gif",
+  "name": "walkSkinned_skin",
+  "animation": "walkSkinned",
+  "skin": "default",
+  "fps": 20,
+  "width": 1536,
+  "height": 1536,
+  "scale": 1.0,
+  "quality": 100,
+  "colors": 256,
+  "forever": true,
+  "premultipliedAlpha": false,
+  "backgroundColor": "ccccccff"
+}

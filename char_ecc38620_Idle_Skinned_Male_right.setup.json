@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "character_id": "char_ecc38620_Idle_Skinned_Male_right",
+  "psd_width": 1536,
+  "psd_height": 1536,
+  "character_facing_direction": "right",
+  "projection_profile": {
+    "view": "side",
+    "yaw": 90
+  },
+  "renames": {
+    "layer_0": "hand_right",
+    "layer_1": "lower_arm_right",
+    "layer_2": "upper_arm_right",
+    "layer_3": "lower_leg_right",
+    "layer_4": "upper_leg_right",
+    "layer_5": "foot_right",
+    "layer_6": "head",
+    "layer_7": "pelvis",
+    "layer_8": "neck",
+    "layer_9": "chest",
+    "layer_10": "upper_leg_left",
+    "layer_11": "lower_leg_left",
+    "layer_12": "foot_left",
+    "layer_13": "upper_arm_left",
+    "layer_14": "lower_arm_left",
+    "layer_15": "hand_left"
+  },
+  "draw_order": [
+    "hand_right",
+    "lower_arm_right",
+    "upper_arm_right",
+    "lower_leg_right",
+    "upper_leg_right",
+    "foot_right",
+    "head",
+    "pelvis",
+    "neck",
+    "chest",
+    "upper_leg_left",
+    "lower_leg_left",
+    "foot_left",
+    "upper_arm_left",
+    "lower_arm_left",
+    "hand_left"
+  ],
+  "joints": {
+    "ankle_left": {
+      "x": 782,
+      "y": 1338
+    },
+    "ankle_right": {
+      "x": 702,
+      "y": 1342
+    },
+    "chest_bottom": {
+      "x": 688,
+      "y": 628
+    },
+    "chest_top": {
+      "x": 657,
+      "y": 358
+    },
+    "elbow_left": {
+      "x": 696,
+      "y": 593
+    },
+    "elbow_right": {
+      "x": 676,
+      "y": 608
+    },
+    "head_top": {
+      "x": 686,
+      "y": 124
+    },
+    "hip_left": {
+      "x": 715,
+      "y": 750
+    },
+    "hip_right": {
+      "x": 702,
+      "y": 743
+    },
+    "knee_left": {
+      "x": 789,
+      "y": 1034
+    },
+    "knee_right": {
+      "x": 726,
+      "y": 1037
+    },
+    "neck": {
+      "x": 664,
+      "y": 338
+    },
+    "neck_top": {
+      "x": 670,
+      "y": 260
+    },
+    "pelvis": {
+      "x": 704,
+      "y": 699
+    },
+    "shoulder_left": {
+      "x": 679,
+      "y": 397
+    },
+    "shoulder_right": {
+      "x": 661,
+      "y": 413
+    },
+    "toe_left": {
+      "x": 882,
+      "y": 1386
+    },
+    "toe_right": {
+      "x": 794,
+      "y": 1391
+    },
+    "wrist_left": {
+      "x": 717,
+      "y": 791
+    },
+    "wrist_right": {
+      "x": 708,
+      "y": 806
+    }
+  },
+  "motion_profile": {
+    "bind_pose_type": "auto",
+    "motion_rest_pose": "auto",
+    "arm_neutral_angle_left": null,
+    "arm_neutral_angle_right": null,
+    "leg_neutral_angle_left": null,
+    "leg_neutral_angle_right": null,
+    "arm_stride_coupling": 0.3
+  },
+  "limb_behavior": {
+    "arm_left": {
+      "use_ik": false,
+      "bend_positive": null,
+      "role": "auto"
+    },
+    "arm_right": {
+      "use_ik": false,
+      "bend_positive": null,
+      "role": "auto"
+    },
+    "leg_left": {
+      "use_ik": true,
+      "bend_positive": null,
+      "role": "auto"
+    },
+    "leg_right": {
+      "use_ik": true,
+      "bend_positive": null,
+      "role": "auto"
+    }
+  },
+  "overlap_groups": {
+    "front_leg_side": "auto",
+    "front_arm_side": "auto",
+    "pelvis_overlap_policy": "between"
+  }
+}

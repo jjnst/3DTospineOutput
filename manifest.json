@@ -1,0 +1,130 @@
+{
+  "input_fbx": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\uploads\\skinned_d0d55081_Idle_Skinned_Male.fbx",
+  "direction": "right",
+  "detected_source": "mixamo",
+  "render_width": 1536,
+  "render_height": 1536,
+  "preview_path": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\preview.png",
+  "layers": {
+    "pelvis": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\pelvis.png",
+    "chest": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\chest.png",
+    "neck": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\neck.png",
+    "head": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\head.png",
+    "upper_arm_left": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\upper_arm_left.png",
+    "lower_arm_left": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\lower_arm_left.png",
+    "hand_left": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\hand_left.png",
+    "upper_arm_right": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\upper_arm_right.png",
+    "lower_arm_right": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\lower_arm_right.png",
+    "hand_right": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\hand_right.png",
+    "upper_leg_left": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\upper_leg_left.png",
+    "lower_leg_left": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\lower_leg_left.png",
+    "foot_left": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\foot_left.png",
+    "upper_leg_right": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\upper_leg_right.png",
+    "lower_leg_right": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\lower_leg_right.png",
+    "foot_right": "D:\\AI_Projects\\3D_To_2D_Animations\\spine2d-animation-mcp\\storage\\fbx_psd\\job_b00d5edd_Idle_Skinned_Male\\foot_right.png"
+  },
+  "layer_order": [
+    "hand_right",
+    "lower_arm_right",
+    "upper_arm_right",
+    "lower_leg_right",
+    "upper_leg_right",
+    "foot_right",
+    "head",
+    "pelvis",
+    "neck",
+    "chest",
+    "upper_leg_left",
+    "lower_leg_left",
+    "foot_left",
+    "upper_arm_left",
+    "lower_arm_left",
+    "hand_left"
+  ],
+  "joints": {
+    "pelvis": {
+      "x": 704,
+      "y": 699
+    },
+    "chest_bottom": {
+      "x": 688,
+      "y": 628
+    },
+    "chest_top": {
+      "x": 657,
+      "y": 358
+    },
+    "neck": {
+      "x": 664,
+      "y": 338
+    },
+    "neck_top": {
+      "x": 670,
+      "y": 260
+    },
+    "head_top": {
+      "x": 686,
+      "y": 124
+    },
+    "shoulder_left": {
+      "x": 679,
+      "y": 397
+    },
+    "elbow_left": {
+      "x": 696,
+      "y": 593
+    },
+    "wrist_left": {
+      "x": 717,
+      "y": 791
+    },
+    "shoulder_right": {
+      "x": 661,
+      "y": 413
+    },
+    "elbow_right": {
+      "x": 676,
+      "y": 608
+    },
+    "wrist_right": {
+      "x": 708,
+      "y": 806
+    },
+    "hip_left": {
+      "x": 715,
+      "y": 750
+    },
+    "knee_left": {
+      "x": 789,
+      "y": 1034
+    },
+    "ankle_left": {
+      "x": 782,
+      "y": 1338
+    },
+    "toe_left": {
+      "x": 882,
+      "y": 1386
+    },
+    "hip_right": {
+      "x": 702,
+      "y": 743
+    },
+    "knee_right": {
+      "x": 726,
+      "y": 1037
+    },
+    "ankle_right": {
+      "x": 702,
+      "y": 1342
+    },
+    "toe_right": {
+      "x": 794,
+      "y": 1391
+    }
+  },
+  "camera_angle": 90.0,
+  "frame_offset_x": 0.0,
+  "frame_offset_y": 0.0,
+  "warnings": []
+}
